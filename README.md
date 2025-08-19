@@ -26,3 +26,5 @@
 - [The different types of testing in software | Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [API testing with Playwright](https://shiv-jirwankar.medium.com/api-testing-with-playwright-2570021ed9b2)
 
+-[Reference Playwright with reduc](https://github.com/microsoft/playwright/issues/15325)
+
